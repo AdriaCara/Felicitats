@@ -32,15 +32,15 @@ Puedes personalizar la URL para mostrar una felicitación específica según la 
 #### 🎂 Aniversari | Birthday | Cumpleaños
 
 - **Català:**  
-  `https://[TU_DOMINI]/?code=0&lang=ca&name=Jordi`  
+  `https://adriacara.github.io/Felicitats/?code=0&lang=ca&name=Jordi`
   ➜ Mostra "Feliç Aniversari Jordi!"
 
 - **English:**  
-  `https://[TU_DOMINI]/?code=0&lang=en&name=Emily`  
+  `https://adriacara.github.io/Felicitats/?code=0&lang=en&name=Emily`  
   ➜ Shows "Happy Birthday Emily!"
 
 - **Español:**  
-  `https://[TU_DOMINI]/?code=0&lang=es&name=Carlos`  
+  `https://adriacara.github.io/Felicitats/?code=0&lang=es&name=Carlos`  
   ➜ Muestra "¡Feliz Cumpleaños Carlos!"
 
 ---
@@ -48,15 +48,15 @@ Puedes personalizar la URL para mostrar una felicitación específica según la 
 #### 🎗️ Diada de Catalunya | Catalonia Day | Diada de Cataluña
 
 - **Català:**  
-  `https://[TU_DOMINI]/?code=1&lang=ca&name=Laia`  
+  `https://adriacara.github.io/Felicitats/?code=1&lang=ca&name=Laia`  
   ➜ Mostra "Feliç Diada de Catalunya Laia!"
 
 - **English:**  
-  `https://[TU_DOMINI]/?code=1&lang=en&name=John`  
+  `https://adriacara.github.io/Felicitats/?code=1&lang=en&name=John`  
   ➜ Shows "Happy Catalonia Day John!"
 
 - **Español:**  
-  `https://[TU_DOMINI]/?code=1&lang=es&name=Ana`  
+  `https://adriacara.github.io/Felicitats/?code=1&lang=es&name=Ana`  
   ➜ Muestra "¡Feliz Diada de Cataluña Ana!"
 
 ---
