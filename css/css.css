@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    align-content: center;
+    text-align: center;
+    background-color: rgb(26, 26, 26);
+}
+
+#image {
+    max-width: 100%;
+    min-width: 100%;
+    border-radius: 5%;
+    padding-top: 5%;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.card {
+    max-width: 50%;
+    margin: 0 auto;
+    background-color: black;
+    padding: 3%;
+    border-radius: 10%;
+    box-shadow: 0 0 5% rgba(0, 0, 0, 0);
+}
