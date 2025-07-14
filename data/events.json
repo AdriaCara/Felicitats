@@ -1,0 +1,36 @@
+[
+  {
+    "image": "images/cake.jpg",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Cumpleaños",
+        "text": "En este día especial, te deseamos un cumpleaños lleno de alegría, amor y momentos inolvidables. Que este nuevo año de vida te traiga éxito, salud y felicidad.¡Disfruta al máximo tu día!"
+      },
+      "en": {
+        "title": "Happy Birthday",
+        "text": "On this special day, we wish you a birthday filled with joy, love, and unforgettable moments. May this new year bring you success, health, and happiness. Enjoy your day to the fullest!"
+      },
+      "ca": {
+        "title": "Feliç Aniversari",
+        "text": "Aquest dia especial, et desitgem un aniversari ple d'alegria, amor i moments inoblidables. Que aquest nou any de vida et porti èxit, salut i felicitat. Gaudeix al màxim el teu dia!"
+      }
+    }
+  },
+  {
+    "image": "images/diada.jpg",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Diada de Catalunya",
+        "text": "¡Buena Diada de Cataluña! Que este Onze de Setembre sea un día de celebración de nuestra identidad y cultura. ¡Viva Cataluña!"
+      },
+      "en": {
+        "title": "Happy Day of Catalonia",
+        "text": "Happy Catalonia Day! May this September 11th be a day of celebration of our identity and culture. Long live Catalonia!"
+      },
+      "ca": {
+        "title": "Feliç Diada de Cataluña",
+        "text": "Bona Diada de Catalunya! Que aquest Onze de Setembre sigui un dia de celebració de la nostra identitat i cultura. Visca Catalunya!"
+      }
+    }
+  }
+]
