@@ -1,21 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ca">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title class="title" id="title">Error JS</title>
-    <link rel="stylesheet" href="css/css.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Pàgina per felicitar aniversaris i festivitats." />
+  <title id="title">Felicitació</title>
+  <link rel="stylesheet" href="css/css.css" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
 </head>
 <body>
-    <div class="card">
-        <div style="display: inline;" class="title" id="title2">Error JS</div>
-        <div style="display: inline;" class="title" id="name">Error JS</div>
-        <div>
-            <img id="image" src="images/error.jpg" alt="Imagen de evento" />
-            <p id="text">Error JS</p>
-        </div>
-    </div>
-    <script src="js/loader.js"></script>
-    <script src="js/main.js"></script>
+  <main class="card" role="main" aria-labelledby="subtitle name">
+    <header class="title-row">
+      <h1 class="titleJS titleCSS" id="subtitle">Títol de l'esdeveniment</h1>
+      <h2 class="titleCSS" id="name">Nom de la persona</h2>
+    </header>
+    <figure>
+      <img
+        class="img"
+        id="image"
+        src="images/error.jpg"
+        alt="Imatge relacionada amb l'esdeveniment"
+      />
+      <figcaption class="sr-only">Imatge del missatge de felicitació</figcaption>
+    </figure>
+    <p class="text" id="text">Text del missatge</p>
+  </main>
+
+  <script src="js/loader.js"></script>
+  <script src="js/main.js"></script>
 </body>
 </html>
