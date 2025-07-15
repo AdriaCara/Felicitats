@@ -1,6 +1,7 @@
 [
   {
     "image": "images/cake.jpg",
+    "emoji": "🎂🎂🎂",
     "texts": {
       "es": {
         "title": "¡Feliz Cumpleaños",
@@ -10,7 +11,7 @@
         "title": "Happy Birthday",
         "text": "On this special day, we wish you a birthday filled with joy, love, and unforgettable moments. May this new year bring you success, health, and happiness. Enjoy your day to the fullest!"
       },
-      "ca": {
+      "cat": {
         "title": "Feliç Aniversari",
         "text": "Aquest dia especial, et desitgem un aniversari ple d'alegria, amor i moments inoblidables. Que aquest nou any de vida et porti èxit, salut i felicitat. Gaudeix al màxim el teu dia!"
       }
@@ -18,6 +19,7 @@
   },
   {
     "image": "images/diada.jpg",
+    "emoji": "💛❤️💛❤️💛❤️💛❤️💛",
     "texts": {
       "es": {
         "title": "¡Feliz Diada de Catalunya",
@@ -27,7 +29,7 @@
         "title": "Happy Day of Catalonia",
         "text": "Happy Catalonia Day! May this September 11th be a day of celebration of our identity and culture. Long live Catalonia!"
       },
-      "ca": {
+      "cat": {
         "title": "Feliç Diada de Cataluña",
         "text": "Bona Diada de Catalunya! Que aquest Onze de Setembre sigui un dia de celebració de la nostra identitat i cultura. Visca Catalunya!"
       }
@@ -35,16 +37,17 @@
   },
   {
     "image": "images/yule.jpg",
+    "emoji": "🪵🪵🪵",
     "texts": {
       "es": {
-        "title": "Feliz Yule",
+        "title": "¡Feliz Yule",
         "text": "Feliz Yule, que la luz y la calidez del solsticio de invierno iluminen tu hogar y tu corazón"
       },
       "en": {
         "title": "Happy Yule",
         "text": "Happy Yule, may the light and warmth of the winter solstice illuminate your home and your heart."
       },
-      "ca": {
+      "cat": {
         "title": "Bon Yule",
         "text": "Feliç Yule, que la llum i la calidesa del solstici d'hivern il·luminin la teva llar i el teu cor"
       }
@@ -52,16 +55,17 @@
   },
   {
     "image": "images/newYear.jpg",
+    "emoji": "🕛🕛🕛",
     "texts": {
       "es": {
-        "title": "Feliz año nuevo",
+        "title": "¡Feliz año nuevo",
         "text": "¡Feliz Año Nuevo! Te deseo un año lleno de felicidad, salud y prosperidad. Que este nuevo año te traiga muchas alegrías y oportunidades para cumplir tus sueños. ¡Brindo por un año lleno de éxitos y momentos inolvidables! "
       },
       "en": {
         "title": "Happy new year",
         "text": "Happy New Year! I wish you a year filled with happiness, health, and prosperity. May this new year bring you many joys and opportunities to fulfill your dreams. Here's to a year filled with success and unforgettable moments!"
       },
-      "ca": {
+      "cat": {
         "title": "Feliç any nou",
         "text": "Feliç Any Nou! Et desitjo un any ple de felicitat, salut i prosperitat. Que aquest nou any et porti moltes alegries i oportunitats per complir els teus somnis. Brindo per un any ple d'èxits i moments inoblidables!"
       }
@@ -69,16 +73,17 @@
   },
   {
     "image": "images/erasmus.jpg",
+    "emoji": "🛩️🛩️🛩️",
     "texts": {
       "es": {
-        "title": "Buen erasmus",
+        "title": "¡Buen erasmus",
         "text": "¡Enhorabuena por tu Erasmus! Estamos muy felices de que vayas a vivir esta experiencia. Disfruta cada instante, aprende mucho y conoce gente nueva. ¡Te deseamos lo mejor en esta increíble aventura!"
       },
       "en": {
         "title": "Good erasmus",
         "text": "Congratulations on your Erasmus! We're so happy you're going to be living this experience. Enjoy every moment, learn a lot, and meet new people. We wish you the best on this incredible adventure!"
       },
-      "ca": {
+      "cat": {
         "title": "Bon erasmus",
         "text": "Enhorabona pel teu Erasmus! Estem molt feliços que vagis a viure aquesta experiència. Gaudeix cada instant, aprèn molt i coneix gent nova. Et desitgem el millor en aquesta increïble aventura!"
       }
@@ -86,18 +91,19 @@
   },
   {
     "image": "images/erasmus.jpg",
+    "emoji": "🏘️🏘️🏘️",
     "texts": {
       "es": {
-        "title": "Bienvenida del Erasmus",
-        "text": "¡Bienvenido de vuelta de tu Erasmus! Es genial tenerte de regreso después de esta increíble experiencia. Espero que hayas disfrutado mucho y aprendido un montón. Te deseo lo mejor en esta nueva etapa."
+        "title": "¡Bienvenida del Erasmus",
+        "text": "¡Bienvenida de vuelta de tu Erasmus! Es genial tenerte de regreso después de esta increíble experiencia. Espero que hayas disfrutado mucho y aprendido un montón. Te deseo lo mejor en esta nueva etapa."
       },
       "en": {
         "title": "Erasmus Welcome",
         "text": "Welcome back from your Erasmus! It's great to have you back after this incredible experience. I hope you enjoyed it and learned a lot. I wish you the best in this new phase."
       },
-      "ca": {
+      "cat": {
         "title": "Benvinguda de l'Erasmus",
-        "text": "Benvingut de tornada del teu Erasmus! És genial tenir-te de tornada després d'aquesta increïble experiència. Espero que hagis gaudit molt i après un munt. Et desitjo el millor en aquesta nova etapa."
+        "text": "Benvinguda de tornada del teu Erasmus! És genial tenir-te de tornada després d'aquesta increïble experiència. Espero que hagis gaudit molt i après un munt. Et desitjo el millor en aquesta nova etapa."
       }
     }
   }

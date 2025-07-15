@@ -32,7 +32,7 @@ Puedes personalizar la URL para mostrar una felicitación específica según la 
 #### 🎂 Aniversari | Birthday | Cumpleaños
 
 - **Català:**  
-  `https://adriacara.github.io/Felicitats/?code=0&lang=ca&name=Jordi`
+  `https://adriacara.github.io/Felicitats/?code=0&lang=cat&name=Jordi`
   ➜ Mostra "Feliç Aniversari Jordi!"
 
 - **English:**  
@@ -48,7 +48,7 @@ Puedes personalizar la URL para mostrar una felicitación específica según la 
 #### 🎗️ Diada de Catalunya | Catalonia Day | Diada de Cataluña
 
 - **Català:**  
-  `https://adriacara.github.io/Felicitats/?code=1&lang=ca&name=Laia`  
+  `https://adriacara.github.io/Felicitats/?code=1&lang=cat&name=Laia`  
   ➜ Mostra "Feliç Diada de Catalunya Laia!"
 
 - **English:**  
@@ -68,7 +68,7 @@ Puedes personalizar la URL para mostrar una felicitación específica según la 
 - `code=3` → 🕛 Any nou | New Year | Año nuevo
 - `code=4` → 🛩️ Bon Erasmus | Go Erasmus | Buen Erasmus
 - `code=5` → 🏘️ Benvinguda d'Erasmus | Erasmus Welcome | Bienvenida de Erasmus 
-- `lang=ca/en/es` → Idioma | Language | Idioma  
+- `lang=cat/en/es` → Idioma | Language | Idioma  
 - `name=...` → Nom de la persona felicitada | Name of the person | Nombre de la persona felicitada
 
 ---
