@@ -5,15 +5,15 @@
     "texts": {
       "es": {
         "title": "¡Feliz Cumpleaños",
-        "text": "En este día especial, te deseamos un cumpleaños lleno de alegría, amor y momentos inolvidables. Que este nuevo año de vida te traiga éxito, salud y felicidad.¡Disfruta al máximo tu día!"
+        "text": "En este día especial, te deseo un cumpleaños lleno de alegría, amor y momentos inolvidables. Que este nuevo año de vida te traiga éxito, salud y felicidad.¡Disfruta al máximo tu día!"
       },
       "en": {
         "title": "Happy Birthday",
-        "text": "On this special day, we wish you a birthday filled with joy, love, and unforgettable moments. May this new year bring you success, health, and happiness. Enjoy your day to the fullest!"
+        "text": "On this special day, I wish you a birthday filled with joy, love, and unforgettable moments. May this new year bring you success, health, and happiness. Enjoy your day to the fullest!"
       },
       "cat": {
         "title": "Feliç Aniversari",
-        "text": "Aquest dia especial, et desitgem un aniversari ple d'alegria, amor i moments inoblidables. Que aquest nou any de vida et porti èxit, salut i felicitat. Gaudeix al màxim el teu dia!"
+        "text": "Aquest dia especial, et desitjo un aniversari ple d'alegria, amor i moments inoblidables. Que aquest nou any de vida et porti èxit, salut i felicitat. Gaudeix al màxim el teu dia!"
       }
     }
   },
@@ -23,33 +23,15 @@
     "texts": {
       "es": {
         "title": "¡Feliz Diada de Catalunya",
-        "text": "¡Buena Diada de Cataluña! Que este Onze de Setembre sea un día de celebración de nuestra identidad y cultura. ¡Viva Cataluña!"
+        "text": "Que este Onze de Setembre sea un día de celebración de nuestra identidad y cultura. ¡Viva Cataluña!"
       },
       "en": {
         "title": "Happy Day of Catalonia",
-        "text": "Happy Catalonia Day! May this September 11th be a day of celebration of our identity and culture. Long live Catalonia!"
+        "text": "May this September 11th be a day of celebration of our identity and culture. Long live Catalonia!"
       },
       "cat": {
         "title": "Feliç Diada de Cataluña",
-        "text": "Bona Diada de Catalunya! Que aquest Onze de Setembre sigui un dia de celebració de la nostra identitat i cultura. Visca Catalunya!"
-      }
-    }
-  },
-  {
-    "image": "images/yule.jpg",
-    "emoji": "🪵🪵🪵",
-    "texts": {
-      "es": {
-        "title": "¡Feliz Yule",
-        "text": "Feliz Yule, que la luz y la calidez del solsticio de invierno iluminen tu hogar y tu corazón"
-      },
-      "en": {
-        "title": "Happy Yule",
-        "text": "Happy Yule, may the light and warmth of the winter solstice illuminate your home and your heart."
-      },
-      "cat": {
-        "title": "Bon Yule",
-        "text": "Feliç Yule, que la llum i la calidesa del solstici d'hivern il·luminin la teva llar i el teu cor"
+        "text": "Que aquest Onze de Setembre sigui un dia de celebració de la nostra identitat i cultura. Visca Catalunya!"
       }
     }
   },
@@ -59,15 +41,15 @@
     "texts": {
       "es": {
         "title": "¡Feliz año nuevo",
-        "text": "¡Feliz Año Nuevo! Te deseo un año lleno de felicidad, salud y prosperidad. Que este nuevo año te traiga muchas alegrías y oportunidades para cumplir tus sueños. ¡Brindo por un año lleno de éxitos y momentos inolvidables! "
+        "text": "Te deseo un año lleno de felicidad, salud y prosperidad. Que este nuevo año te traiga muchas alegrías y oportunidades para cumplir tus sueños. ¡Brindo por un año lleno de éxitos y momentos inolvidables! "
       },
       "en": {
         "title": "Happy new year",
-        "text": "Happy New Year! I wish you a year filled with happiness, health, and prosperity. May this new year bring you many joys and opportunities to fulfill your dreams. Here's to a year filled with success and unforgettable moments!"
+        "text": "I wish you a year filled with happiness, health, and prosperity. May this new year bring you many joys and opportunities to fulfill your dreams. Here's to a year filled with success and unforgettable moments!"
       },
       "cat": {
         "title": "Feliç any nou",
-        "text": "Feliç Any Nou! Et desitjo un any ple de felicitat, salut i prosperitat. Que aquest nou any et porti moltes alegries i oportunitats per complir els teus somnis. Brindo per un any ple d'èxits i moments inoblidables!"
+        "text": "Et desitjo un any ple de felicitat, salut i prosperitat. Que aquest nou any et porti moltes alegries i oportunitats per complir els teus somnis. Brindo per un any ple d'èxits i moments inoblidables!"
       }
     }
   },
@@ -104,6 +86,204 @@
       "cat": {
         "title": "Benvinguda de l'Erasmus",
         "text": "Benvinguda de tornada del teu Erasmus! És genial tenir-te de tornada després d'aquesta increïble experiència. Espero que hagis gaudit molt i après un munt. Et desitjo el millor en aquesta nova etapa."
+      }
+    }
+  },
+  {
+    "image": "images/workersDay.jpg",
+    "emoji": "⚒️⚒️⚒️",
+    "texts": {
+      "es": {
+        "title": "¡Feliç dia del treballador",
+        "text": "En este Primero de Mayo, honramos la lucha por la justicia laboral y recordamos que el trabajo dignifica, pero solo cuando es justamente remunerado y realizado en condiciones dignas. ¡Exigimos derechos laborales plenos y un futuro de trabajo justo para todos!"
+      },
+      "en": {
+        "title": "Happy worker's day",
+        "text": "On this May Day, we honor the fight for labor justice and remember that work brings dignity, but only when it is fairly compensated and performed under decent conditions. We demand full labor rights and a fair future of work for all!"
+      },
+      "cat": {
+        "title": "Feliç dia del treballador",
+        "text": "En aquest Primer de Maig, honrem la lluita per la justícia laboral i recordem que el treball dignifica, però només quan és justament remunerat i realitzat en condicions dignes. Exigim drets laborals plens i un futur de treball just per a tothom!"
+      }
+    }
+  },
+  {
+    "image": "images/yule.jpg",
+    "emoji": "🪵🪵🪵",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Yule",
+        "text": "Que la luz y la calidez del solsticio de invierno iluminen tu hogar y tu corazón"
+      },
+      "en": {
+        "title": "Happy Yule",
+        "text": "May the light and warmth of the winter solstice illuminate your home and your heart."
+      },
+      "cat": {
+        "title": "Feliç Yule",
+        "text": "Que la llum i la calidesa del solstici d'hivern il·luminin la teva llar i el teu cor"
+      }
+    }
+  },
+  {
+    "image": "images/litha.jpg",
+    "emoji": "☀️☀️☀️",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Litha",
+        "text": "Que la luz del solsticio de verano ilumine tu vida con alegría, prosperidad y renovada energía. Celebremos la abundancia de la naturaleza y la fuerza del sol en su máximo esplendor. ¡Que este día te traiga momentos mágicos y te inspire a manifestar tus sueños! "
+      },
+      "en": {
+        "title": "Happy Litha",
+        "text": " May the light of the summer solstice illuminate your life with joy, prosperity, and renewed energy. Let's celebrate the abundance of nature and the power of the sun at its peak. May this day bring you magical moments and inspire you to manifest your dreams!"
+      },
+      "cat": {
+        "title": "Feliç Litha",
+        "text": "Que la llum del solstici d'estiu il·lumini la teva vida amb alegria, prosperitat i energia renovada. Celebrem l'abundància de la natura i la força del sol en la seva màxima esplendor. Que aquest dia et porti moments màgics i t'inspiri a manifestar els teus somnis!"
+      }
+    }
+  },
+  {
+    "image": "images/ostara.jpg",
+    "emoji": "🥚🥚🥚",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Ostara",
+        "text": "Que esta celebración del equinoccio de primavera te traiga alegría, renovación y la energía de la naturaleza en su máximo esplendor. ¡Que la luz y el calor del sol te llenen de vitalidad!"
+      },
+      "en": {
+        "title": "Happy Ostara",
+        "text": "May this celebration of the spring equinox bring you joy, renewal, and the energy of nature at its best. May the light and warmth of the sun fill you with vitality!"
+      },
+      "cat": {
+        "title": "Feliç Ostara",
+        "text": "Que aquesta celebració de l'equinocci de primavera us porti alegria, renovació i l'energia de la natura en la seva màxima esplendor. Que la llum i la calor del sol t'omplin de vitalitat!"
+      }
+    }
+  },
+  {
+    "image": "images/mabon.jpg",
+    "emoji": "🍂🍂🍂",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Mabon ",
+        "text": "Que este equinoccio de otoño te traiga equilibrio, gratitud y la abundancia de la cosecha. Que la luz del sol y la oscuridad de la noche encuentren armonía en tu vida. ¡Celebra la transición y agradece los regalos de la naturaleza!"
+      },
+      "en": {
+        "title": "Happy Mabon",
+        "text": "May this autumnal equinox bring you balance, gratitude, and the bounty of the harvest. May the light of the sun and the darkness of the night find harmony in your life. Celebrate the transition and be grateful for nature's gifts!"
+      },
+      "cat": {
+        "title": "Feliç Mabon",
+        "text": "Que aquest equinocci de tardor us porti equilibri, gratitud i l'abundància de la collita. Que la llum del sol i la foscor de la nit trobin harmonia a la teva vida. Celebra la transició i agraeix els regals de la natura!"
+      }
+    }
+  },
+  {
+    "image": "images/samhain.jpg",
+    "emoji": "🎃🎃🎃",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Samhain",
+        "text": "Que disfrutes de esta noche especial, donde el velo entre mundos se adelgaza, para honrar a tus ancestros y conectar con la magia del invierno que comienza. Que la abundancia de la cosecha pasada te inspire y te prepare para un nuevo ciclo. ¡Que la noche te traiga paz y renovación!"
+      },
+      "en": {
+        "title": "Happy Samhain",
+        "text": "May you enjoy this special night, where the veil between worlds thins, to honor your ancestors and connect with the magic of the dawning winter. May the bounty of the past harvest inspire you and prepare you for a new cycle. May the night bring you peace and renewal!"
+      },
+      "cat": {
+        "title": "Feliç Samhain",
+        "text": "Que gaudeixis d'aquesta nit especial, on s'aprima el vel entre mons, per honorar els teus ancestres i connectar amb la màgia de l'hivern que comença. Que l'abundància de la collita passada us inspiri i us prepari per a un nou cicle. Que la nit et porti pau i renovació!"
+      }
+    }
+  },
+  {
+    "image": "images/imbolc.jpg",
+    "emoji": "🕯️🕯️🕯️",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Imbolc",
+        "text": "Que la luz de la primavera renueve tu espíritu y te traiga nuevas energías y esperanza. Celebramos el despertar de la naturaleza y el regreso de la luz después del invierno. ¡Que la diosa Brigid te ilumine!"
+      },
+      "en": {
+        "title": "Happy Imbolc",
+        "text": "May the light of spring renew your spirit and bring you new energy and hope. We celebrate the awakening of nature and the return of light after winter. May the goddess Brigid illuminate you!"
+      },
+      "cat": {
+        "title": "Feliç Imbolc",
+        "text": "Que la llum de la primavera renovi el teu esperit i et porti noves energies i esperança. Celebrem el despertar de la natura i la tornada de la llum després de l'hivern. Que la deessa Brigid t'il·lumini!"
+      }
+    }
+  },
+  {
+    "image": "images/beltane.jpg",
+    "emoji": "🔥🔥🔥",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Beltane!",
+        "text": "Que la energía de la primavera, la fertilidad y la unión te llenen de alegría y prosperidad. Que las llamas de Beltane purifiquen tu camino y te guíen hacia nuevas alegrías. ¡Que la magia de esta festividad te acompañe!"
+      },
+      "en": {
+        "title": "Happy Beltane!",
+        "text": "May the energy of spring, fertility, and unity fill you with joy and prosperity. May the flames of Beltane purify your path and guide you toward new joys. May the magic of this holiday be with you!"
+      },
+      "cat": {
+        "title": "Feliç Beltane!",
+        "text": "Que l'energia de la primavera, la fertilitat i la unió us omplin d'alegria i prosperitat. Que les flames de Beltane purifiquin el teu camí i et guiïn cap a noves alegries. Que la màgia d'aquesta festivitat us acompanyi!"
+      }
+    }
+  },
+  {
+    "image": "images/lughnasadh.jpg",
+    "emoji": "🌾🌾🌾",
+    "texts": {
+      "es": {
+        "title": "¡Feliz Lughnasadh!",
+        "text": "Que esta festividad de la cosecha te traiga abundancia, alegría y gratitud por los frutos de tu trabajo. Que la energía del verano te inspire a crear, crecer y celebrar la vida. ¡Que disfrutes de este tiempo de agradecimiento y renovación!"
+      },
+      "en": {
+        "title": "Happy Lughnasadh!",
+        "text": "May this harvest festival bring you abundance, joy, and gratitude for the fruits of your labor. May the energy of summer inspire you to create, grow, and celebrate life. Enjoy this time of gratitude and renewal!"
+      },
+      "cat": {
+        "title": "Feliç Lughnasadh!",
+        "text": "Que aquesta festivitat de la collita et porti abundància, alegria i gratitud pels fruits de la teva feina. Que gaudiu d'aquest temps d'agraïment i renovació!"
+      }
+    }
+  },
+  {
+    "image": "images/majorFest.jpg",
+    "emoji": "🌈🐎🍎",
+    "texts": {
+      "es": {
+        "title": "¡Buena Fiesta Mayor",
+        "text": "Son aquellos días que tanto esperamos, cuando el pueblo se llena de vida, tradición y momentos compartidos. Ya verás cómo volveremos a sentir la emoción de ver a los gigantes bailar por la riera, el sonido de las grajillas, el fuego del correfoc cruzando la noche, y esa sensación tan bonita de formar parte de algo mucho mayor. Sé que eres de aquellos que vive la fiesta intensamente, que ama al pueblo y que sabe disfrutar de cada detalle. Así que espero que lo vivas como siempre: con alegría, con los tuyos y con todo el corazón. Disfrútala, vívela y, sobre todo, celebrándola como sólo en Arenys de Munt sabemos hacerlo."
+      },
+      "en": {
+        "title": "Happy Major festival",
+        "text": "These are the days we look forward to, when the town is filled with life, tradition and shared moments. You will see how we will once again feel the emotion of seeing the giants dancing in the stream, the sound of the gralles, the fire of the correfoc crossing the night, and that beautiful feeling of being part of something much bigger. I know that you are one of those who live the festival intensely, who loves the town and who knows how to enjoy every detail. So I hope you live it as always: with joy, with your loved ones and with all your heart. Enjoy it, live it and, above all, celebrate it as only in Arenys de Munt we know how to do it."
+      },
+      "cat": {
+        "title": "Bona Festa Major",
+        "text": "Són aquells dies que tant esperem, quan el poble s´omple de vida, de tradició i de moments compartits. Ja veuràs com tornarem a sentir l’emoció de veure els gegants bailar per la riera, el so de les gralles, el foc del correfoc creuant la nit, i aquella sensació tan bonica de formar part d’alguna cosa molt més gran. Sé que ets d'aquells que viu la festa intensament, que estima el poble i que sap gaudir de cada detall. Així que espero que ho visquis com sempre: amb alegria, amb els teus i amb tot el cor. Gaudeix-la, viu-la i, sobretot, celebra-la com només a Arenys de Munt sabem fer-ho."
+      }
+    }
+  },
+  {
+    "image": "images/.jpg",
+    "emoji": "",
+    "texts": {
+      "es": {
+        "title": "",
+        "text": ""
+      },
+      "en": {
+        "title": "",
+        "text": ""
+      },
+      "cat": {
+        "title": "",
+        "text": ""
       }
     }
   }
