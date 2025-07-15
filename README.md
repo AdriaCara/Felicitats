@@ -64,6 +64,10 @@ Puedes personalizar la URL para mostrar una felicitación específica según la 
 💡 **Recorda | Reminder | Recuerda:**  
 - `code=0` → 🎂 Aniversari | Birthday | Cumpleaños  
 - `code=1` → 🎗️ Diada de Catalunya | Catalonia Day | Diada de Cataluña  
+- `code=2` → 🪵 Yule | Yule | Yule
+- `code=3` → 🕛 Any nou | New Year | Año nuevo
+- `code=4` → 🛩️ Bon Erasmus | Go Erasmus | Buen Erasmus
+- `code=5` → 🏘️ Benvinguda d'Erasmus | Erasmus Welcome | Bienvenida de Erasmus 
 - `lang=ca/en/es` → Idioma | Language | Idioma  
 - `name=...` → Nom de la persona felicitada | Name of the person | Nombre de la persona felicitada
 
