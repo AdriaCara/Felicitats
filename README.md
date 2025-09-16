@@ -45,7 +45,7 @@ Puedes personalizar la URL para mostrar una felicitación específica según la 
 
 ---
 
-#### 🎗️ Diada de Catalunya | Catalonia Day | Diada de Cataluña
+#### 💛 Diada de Catalunya | Catalonia Day | Diada de Cataluña
 
 - **Català:**  
   `https://adriacara.github.io/Felicitats/?code=1&lang=cat&name=Laia`
